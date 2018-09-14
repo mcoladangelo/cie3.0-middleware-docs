@@ -1,0 +1,13 @@
+document:
+  name: CIE 3.0 - Manuale d'uso del middleware CIE
+  description: |
+    Questo manuale per l’utente illustra le principali funzionalità messe a
+    disposizione dall'applicativo Middleware CIE.
+  tags:
+    - Manuale
+    - Middleware
+    - CIE
+    - Carta di Identità Elettronica
+    - Docs Italia
+  software_website: https://www.cartaidentita.interno.gov.it/
+  type: Manuale d'uso
